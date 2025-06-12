@@ -141,35 +141,35 @@ export const myProjects = [
      
     ],
   },
- /*  {
+  {
     id: 5,
-    title: "WordPress Custom Theme",
+    title: "Project:Resume-Builder",
     description:
-      "A fully customizable WordPress theme optimized for performance and SEO.",
+      "A beautiful and customizable Resume Builder web application built with React and Tailwind CSS.",
     subDescription: [
-      "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
+      "Developed a responsive Resume Builder using React+ vite, Tailwind CSS and JavaScript.",
       "Integrated Tailwind CSS for modern styling and UI enhancements.",
-      "Optimized SEO and page speed using Vite.js for fast builds.",
-      "Implemented custom widgets and plugin compatibility for extended functionality.",
+      "Optimized  page speed using Vite.js for fast builds.",
+      "Implemented html2canvas + jsPDF for PDF generation.",
     ],
-    href: "",
+    href: "https://github.com/Adhil5676/Resume-Builder",
     logo: "",
-    image: "/assets/projects/wordpress-theme.jpg",
+    image: "/assets/projects/reume.jpg",
     tags: [
       {
         id: 1,
-        name: "WordPress",
-        path: "/assets/logos/wordpress.svg",
+        name: "React JS",
+        path: "/assets/logos/react.svg",
       },
       {
         id: 2,
-        name: "HTML5",
-        path: "/assets/logos/html5.svg",
+        name: "Tailwind CSS",
+        path: "/assets/logos/tailwindcss.svg",
       },
       {
         id: 3,
-        name: "CSS3",
-        path: "/assets/logos/css3.svg",
+        name: "JavaScript",
+        path: "/assets/logos/javascript.svg",
       },
       {
         id: 4,
@@ -178,6 +178,7 @@ export const myProjects = [
       },
     ],
   },
+  /*
   {
     id: 6,
     title: "Online Learning Platform",

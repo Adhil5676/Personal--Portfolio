@@ -8,6 +8,7 @@ import { easing } from "maath";
 import { Suspense } from "react";
 import Loader from "../components/Loader";
 
+
 const Hero = () => {
  const isMobile = useMediaQuery({ maxWidth: 853});
   return (
